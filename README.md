@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JasmineImani/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/JasmineImani/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JasmineImani/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JasmineImani/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JasmineImani/azure-network-protocols)
   - [Virtual Private Networks (VPNs)](www.google.com)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
