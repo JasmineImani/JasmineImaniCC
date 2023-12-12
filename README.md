@@ -4,7 +4,7 @@
 
 - <b>Kali Linux</b>
   - [Kali Linux: Prerequisites and Installation](https://github.com/JasmineImani/KaliLinux-prereqs)
-  - [Kali Linux: Post-Installation Configuration](www.google.com)
+  - [Kali Linux: Post-Installation Configuration](https://github.com/JasmineImani/post-install-config)
   - [Kali Linux: Hardening](www.google.com)
 - <b>Kali Linux (Encrypting and Decrypting File with Ccrypt)</b>
   - [Kali Linux: Ccrypt Installation](https://github.com/JasmineImani/ccrypt-install)
