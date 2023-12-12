@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Kali Linux</b>
-  - [Kali Linux: Prerequisites and Installation](https://github.com/JasmineImani/osticket-prereqs)
+  - [Kali Linux: Prerequisites and Installation](https://github.com/JasmineImani/KaliLinux-prereqs)
   - [Kali Linux: Post-Installation Configuration](www.google.com)
   - [Kali Linux: Hardening](www.google.com)
 - <b>Kali Linux (Encrypting and Decrypting File with Ccrypt)</b>
