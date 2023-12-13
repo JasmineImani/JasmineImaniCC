@@ -12,7 +12,7 @@
   - [Kali Linux: Change The Encryption Key](https://github.com/JasmineImani/Kali-changekey)
   - [Kali Linux: Decrypt The File](https://github.com/JasmineImani/Kali-decrypt)
 - <b>OWASP ZAP (Penetration Testing)</b>
-  - [OWASP ZAP: Installation](https://github.com/JasmineImani/owasp-install))
+  - [OWASP ZAP: Installation](https://github.com/JasmineImani/owasp-install)
   - [OWASP ZAP: Test A Web Application](www.google.com)
   - [OWASP ZAP: Observe Test Results](www.google.com)
                                         
