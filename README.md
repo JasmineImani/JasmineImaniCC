@@ -9,7 +9,7 @@
 - <b>Kali Linux (Encrypting and Decrypting File with Ccrypt)</b>
   - [Kali Linux: Ccrypt Installation](https://github.com/JasmineImani/ccrypt-install)
   - [Kali Linux: Encrypt A File](https://github.com/JasmineImani/Kali-encrypt)
-  - [Kali Linux: Change The Encryption Key](www.google.com)
+  - [Kali Linux: Change The Encryption Key](https://github.com/JasmineImani/Kali-changekey)
   - [Kali Linux: Decrypt The File](www.google.com)
 - <b>OWASP ZAP (Penetration Testing)</b>
   - [OWASP ZAP: Prerequisites and Installation](www.google.com)
